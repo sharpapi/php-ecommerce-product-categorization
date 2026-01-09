@@ -87,19 +87,60 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "6d3fec8c-34f8-4071-a5ba-af14910b4d77",
+        "attributes": {
+            "status": "success",
+            "type": "ecommerce_product_categories",
+            "result": [
+                {
+                    "name": "Gaming Laptops",
+                    "weight": 10
+                },
+                {
+                    "name": "Razer Laptops",
+                    "weight": 10
+                },
+                {
+                    "name": "High-Performance Laptops",
+                    "weight": 9.5
+                },
+                {
+                    "name": "Laptops",
+                    "weight": 9
+                },
+                {
+                    "name": "Razer Gear",
+                    "weight": 8.5
+                },
+                {
+                    "name": "Electronics",
+                    "weight": 8
+                },
+                {
+                    "name": "Computers & Accessories",
+                    "weight": 7.5
+                },
+                {
+                    "name": "PC Gaming",
+                    "weight": 7
+                },
+                {
+                    "name": "Portable Computers",
+                    "weight": 6.5
+                },
+                {
+                    "name": "Tech Gadgets",
+                    "weight": 6
+                }
+            ]
+        }
     }
-  }
 }
+
 ```
 ---
 

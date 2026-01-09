@@ -29,5 +29,9 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "support": {
+        "source": "https://github.com/sharpapi/php-ecommerce-product-categorization",
+        "issues": "https://github.com/sharpapi/php-ecommerce-product-categorization/issues"
+    }
 }
