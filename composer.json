@@ -3,14 +3,14 @@
     "description": "Categorize products using AI - generates relevant category matches with scores",
     "type": "library",
     "license": "MIT",
-    "keywords": {
-        "0": "sharpapi",
-        "1": "e-commerce",
-        "2": "php",
-        "3": "ai",
-        "4": "api",
-        "6": "products"
-    },
+    "keywords": [
+         "sharpapi",
+         "e-commerce",
+         "php",
+         "ai",
+         "api",
+         "products"
+    ],
     "homepage": "https://sharpapi.com/",
     "authors": [
         {
